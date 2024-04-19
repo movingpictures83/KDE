@@ -1,0 +1,2 @@
+Prefix plugins/KDE/example/
+Plugin KDE inputfile iris.csv outputfile output.png
